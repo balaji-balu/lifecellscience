@@ -12,7 +12,9 @@ tags:
   - tasting
 ---
 
-Want to add mathematical formulaes here 
+Want to add mathematical formulaes here.
+
+$a^2 + b^2 = c^2$
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
 
