@@ -8,6 +8,8 @@ tags:
 ---
 We will introduce some of the basic notation and ideas to be used in studying triangles. Our main result will be to show that the sum of the angles in a triangle is 180<sup>o<sup>.
 
+![ddd](/img/11.png)
+
 The word “Trigonometry” is derived from the Greek roots.
 
 _Tri / gono / metry_: Three / angle / measurement- the study of measuring triangles.
