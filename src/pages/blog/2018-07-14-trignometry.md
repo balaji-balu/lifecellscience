@@ -28,5 +28,6 @@ Consider a right angle triangle ABC having a right angle at B as shown in the fo
 
 $$
 sin of \angle A = \frac {Length of the sie opposite to angle A} {Length of the hypotaneous}
+
 sin of \angle A = {BC}{AC}
 $$
