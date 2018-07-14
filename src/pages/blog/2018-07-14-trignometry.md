@@ -26,8 +26,6 @@ Consider a right angle triangle ABC having a right angle at B as shown in the fo
 
 ![ddd](/img/10-class-0.png)
 
-$$
-sin of \angle A = \frac {Length of the sie opposite to angle A} {Length of the hypotaneous}
+sin of $\angle A = \frac {Length of the sie opposite to angle A} {Length of the hypotaneous}$
 
-sin of \angle A = {BC}{AC}
-$$
+sin of $\angle A = \frac{BC}{AC}$
