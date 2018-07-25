@@ -8,7 +8,7 @@ tags:
 ---
 We will introduce some of the basic notation and ideas to be used in studying triangles. Our main result will be to show that the sum of the angles in a triangle is 180<sup>o<sup>.
 
-![ddd](/img/11.png)
+![ddd](/img/trig0.png)
 
 The word “Trigonometry” is derived from the Greek roots.
 
@@ -31,3 +31,24 @@ Consider a right angle triangle ABC having a right angle at B as shown in the fo
 $sin$ of $\angle A$ = Length of the side opposite to angle A / Length of the hypotaneous
 
 $sin$ of $\angle A = \frac{BC}{AC}$
+
+$cos$ of $\angle A$ = Length of the side adjacent to $\angle A$ / Length of the hypotaneous
+
+$cos$ of $\angle A = \frac{BC}{AC}$
+
+$tan$ of $\angle A$ = Length of the side opposite to $\angle A$ / Length of the side adjacent to the $\angle A$ 
+
+$tan$ of $\angle A = \frac{BC}{AC}$
+
+### Question:
+**Find (i) sin C (ii) cos C and (iii) tan C in the triangle?**
+
+![ddd](/img/10-class-11.png)
+
+_Solution:_
+
+using Pythagoras theorem:
+
+  $AC = AB^2 + BC^2$
+
+  $13^2 = AB^2 + 5^2$
