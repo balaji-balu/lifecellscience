@@ -3,6 +3,7 @@ templateKey: 'blog-post'
 path: /maths
 title: Mathematics
 tags: 
+  - 10th class
   - mathematics
   - maths
   - trignometry
@@ -69,7 +70,7 @@ $$
 
 **Problem 3:** In a triangle PQR with right angle at Q, the value of ∠P is x, PQ = 7cm and QR = 24 cm, then find sin x and cos x.
 
-![Figure 4](/img/trig-4.png)
+![Figure 4](/img/trig-3.png)
 
 _Solution:_
 
@@ -89,10 +90,8 @@ PR = 25 cm \\ \\
 \end{gathered}
 $$
 
-**Problem 3:**
+**Problem 4:**
 In a right angle triangle ABC, Right angle is at C. BC + CA = 23 cm and BC - CA = 7 cm, then find sin A and Tan B 
-
-![figure 5](/img/trig-4.png)
 
 _Solution:_
 
@@ -139,3 +138,73 @@ $23 cm = 23 cm$
 
 ##Exercises 
 
+**Exercise 1:** If tan A = 34, then find the other trigonometric ratio of $\angle A$
+
+![Figure 5](/img/trig-4.png)
+
+_Solution:_
+
+Hence $\tan A$ = Opposite side / Adjacent side = $ \dfrac {3}{4} $
+
+Therefore, opposite side: adjacent side = 3: 4
+
+For angle A, Opposite side = BC = 3k
+
+Adjacent side = AB = 4k (Where k is any positive number)
+
+Now, we have in $\triangle$ ABC (by Pythagoras theorem)
+
+<!-- $$
+(AC)^2 = (AB)^2 + (BC)^2 \\
+(AC)^2 = (3k)^2 + (4k)^2
+(AC)^2 = 9k^2 + 16k^2
+(AC)^2 = 25k^2 \\
+AC = \sqrt25k^2
+$$ -->
+$(AC)^2 = (AB)^2 + (BC)^2$
+
+$(AC)^2 = (3k)^2 + (4k)^2$
+
+$(AC)^2 = 9k^2 + 16k^2$
+
+$(AC)^2 = 25k^2$
+
+$AC = \sqrt 25k^2$
+
+$AC = 5k$ hypotenuse
+
+Now, we can easily write the other ratios of trigonometry
+
+$\sin A = \dfrac{3k}{5k} = \dfrac{3}{5}$ and $\cos A = \dfrac{4k}{5k} = \dfrac{4}{5}$
+
+**Example 2:**  In $\triangle$ ABC and $\triangle$ PQR, if $\angle A$ and $\angle P$ are acute angles such that $\sin A = \sin P$ then prove that $\angle A=\angle P$.
+
+![Figure 6](/img/trig-5.png)
+
+_Solution:_
+
+Given $\sin A = \sin P$
+
+We have $\sin A = \dfrac {BC}{AC}$  and $\sin P = \dfrac{QR}{PQ}$
+
+Then $\dfrac{BC}{AC} = \dfrac{QR}{PQ}$
+
+Let $\dfrac{BC}{AC} = \dfrac{QR}{PQ} = k$ ------------------------------ (1)
+
+By using Pythagoras theorem
+
+$$
+AC^2 = AB^2 + BC^2 and PQ^2 = PR^2 + QR^2
+$$
+
+$$
+AB^2 = AC^2 - BC^2 and PR^2 = PQ^2 - QR^2
+$$
+
+$$
+AB = AC^2 - BC^2  and PR = PQ^2 - QR^2
+$$
+
+$$
+AB = AC^2 - BC^2  and PR = PQ^2 - QR^2
+$$
