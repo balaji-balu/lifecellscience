@@ -1,4 +1,4 @@
----
+ ---
 templateKey: 'blog-post'
 path: /physics
 title: Physics
@@ -13,3 +13,4 @@ title: Physics
 ## Chapter 6 – Electromagnetic Induction.
 ## Chapter 7 – Alternating Current.
 ## Chapter 8 – Electromagnetic Waves.
+## Chapter 9 - Waves
