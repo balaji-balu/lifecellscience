@@ -8,6 +8,33 @@ tags:
   - maths
   - trignometry
 ---
+### Set Theory
+
+ Introduction: A set is a collection of an object. We have to describe a sets concept by using geometrical diagram. A bag contains a well defined red color balls. Therefore a bag is Set and red color balls are a well defined elements. 
+ 
+ Now, a given set of objects we are in a position to distinguish those objects in the set from those that are not in the set. Such a set is said to be a well defined set. Object may be a man, a number, letter or anything. 
+A set is said to be well defined if, given an object we can decide whether it is an element of the set or not. A set is represented by a capital letters of an English alphabet (A, B, C,……), similarly an elements represented by a small letters of an English alphabet (a, b, c, d,……..).
+While writing the set A consisting of elements a, a, b, b, c, c, d, d we do not repeat the elements which occur more than one time. 
+The set of letters given above is indicated by A = {a, b, c, d}
+
+### Structure of Set or Roster form:
+To denote a set with finitely many elements, we can list all the elements of the set and enclose them by braces.
+A = {1, 2, 3} in the set which has exactly three elements. 
+A set of Natural numbers. N = {1, 2, 3, ………………………}
+A set of Whole numbers. W = {0, 1, 2, ……………………...}
+A set of Integer numbers. Z = {……-2, -1, 0, +1, +2, …….}
+
+### Set builder form or Rule form:
+	We shall find it more convenient to describe a set by some property common to all its elements. A is a set of all even natural numbers. We can denote this set by an arbitrary letter say x and it represents every element of that set and we write. 
+A = {2, 4, 6, ………………… }                                            A = { x : x is an even natural number}
+B = {2, 3, 5, 7, 11},                                              B = {x : x is a set of prime numbers less than 13}
+C = {a, e, i, o, u},                                               C = {x : x is a vowel in English alphabet}
+The letter x denotes any arbitrary element that belong to the set. The colon stands for “such that”. The colon follows the characteristic property that distinguishes x.
+ 	The notation x ∈ A means x is an element of A (x ∈ A we may say “ x belongs to A” or “A contains x”.) x ∉ A means x is not an element of A (x ∉ A we may say “x does not belongs to A “ or “A does not contains x”)   A = {1, 3, 5, 7}
+                    1 ∈ A, 3 ∈ A, 5 ∈ A but 2 ∉{ 1, 3, 6}
+
+
+
 ### Trignometry
 
 #### Define ratios in a right ange triangle 
