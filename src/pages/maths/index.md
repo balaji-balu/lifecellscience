@@ -34,13 +34,15 @@ $$
 (13)^2 = (AB)^2 + (5)^2 \\
 169  = (AB)^2 + 25 \\
 (AB)^2 = (169-25) \\
-(AB)^2 = \sqrt144 \\
+(AB)^2 = 144 \\
+AB = \sqrt144 \\
 AB = 144 \\
 AB = 12 cm \\ \\
 \sin C= \dfrac{AB}{AC}  = \dfrac{BC}{AC} \\
 \tan C = \dfrac{AB}{BC} \\
-\sin C= \dfrac{12}{13} = \dfrac{5}{13} \\
-\tan C = 125
+\sin C= \dfrac{12}{13} \\
+\cos C= \dfrac{5}{13} \\
+\tan C = \dfrac{12}{5} \\
 \end{gathered}
 $$
 
