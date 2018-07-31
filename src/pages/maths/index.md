@@ -27,7 +27,7 @@ A set of Whole numbers. W = {0, 1, 2, ……………………...}
 A set of Integer numbers. Z = {……-2, -1, 0, +1, +2, …….}
 
 ### Set builder form or Rule form:
-	We shall find it more convenient to describe a set by some property common to all its elements. A is a set of all even natural numbers. We can denote this set by an arbitrary letter say x and it represents every element of that set and we write. 
+We shall find it more convenient to describe a set by some property common to all its elements. A is a set of all even natural numbers. We can denote this set by an arbitrary letter say x and it represents every element of that set and we write. 
 A = {2, 4, 6, ………………… }                                            A = { x : x is an even natural number}
 B = {2, 3, 5, 7, 11},                                              B = {x : x is a set of prime numbers less than 13}
 C = {a, e, i, o, u},                                               C = {x : x is a vowel in English alphabet}
