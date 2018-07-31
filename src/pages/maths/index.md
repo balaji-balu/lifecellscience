@@ -12,6 +12,8 @@ tags:
 
  Introduction: A set is a collection of an object. We have to describe a sets concept by using geometrical diagram. A bag contains a well defined red color balls. Therefore a bag is Set and red color balls are a well defined elements. 
  
+ ![Figure 1](/img/set1.png)
+ 
  Now, a given set of objects we are in a position to distinguish those objects in the set from those that are not in the set. Such a set is said to be a well defined set. Object may be a man, a number, letter or anything. 
 A set is said to be well defined if, given an object we can decide whether it is an element of the set or not. A set is represented by a capital letters of an English alphabet (A, B, C,……), similarly an elements represented by a small letters of an English alphabet (a, b, c, d,……..).
 While writing the set A consisting of elements a, a, b, b, c, c, d, d we do not repeat the elements which occur more than one time. 
