@@ -3,7 +3,31 @@ templateKey: 'blog-post'
 path: /physics
 title: Physics
 ---
+
 # Physics Part I
+## Chapter 1 –  Introduction of Physics
+## Chapter 2 –  Physics and Mathemtics
+## Chapter 3 –  Kinematics - Rest and Motion
+## Chapter 4 –  The forces
+## Chapter 5 –  Newtons's Laws of Motion
+## Chapter 6 –  Friction 
+## Chapter 7 –  Circular Motion
+## Chapter 8 –  Work an Energy
+## Chapter 9 –  Centre of Mass, Linear Momentum, Collision
+## Chapter 10 – Rotational Mechanics
+## Chapter 11 – Gravitation
+## Chapter 12 – Simple Harmonic Motion
+## Chapter 13 – Fluid Motion
+## Chapter 14 – Some Mechanical Properties of Matter
+## Chapter 15 – Wave Motion and Waves on a String
+## Chapter 16 – Sound Waves
+## Chapter 17 – Light Waves
+## Chapter 18 – Geometrica Optics
+## Chapter 19 – Optical Instruments
+## Chapter 20 – Dispersion and Sprectra
+## Chapter 21 – Speed of Light
+
+# Physics Part II
 
 ## Chapter 1 – Electric Charges and Fields
 ### Coulombs Law
