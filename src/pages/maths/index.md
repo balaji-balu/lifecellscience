@@ -22,8 +22,11 @@ The set of letters given above is indicated by A = {a, b, c, d}
 ### Structure of Set or Roster form:
 To denote a set with finitely many elements, we can list all the elements of the set and enclose them by braces.
 A = {1, 2, 3} in the set which has exactly three elements. 
+
 A set of Natural numbers. N = {1, 2, 3, ………………………}
+
 A set of Whole numbers. W = {0, 1, 2, ……………………...}
+
 A set of Integer numbers. Z = {……-2, -1, 0, +1, +2, …….}
 
 ### Set builder form or Rule form:
