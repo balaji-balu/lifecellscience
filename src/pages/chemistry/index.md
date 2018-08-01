@@ -3,8 +3,8 @@ templateKey: 'blog-post'
 path: /chemistry
 title: Chemistry
 ---
-### Chemistry
-#### Physical Chemistry 
+## Chemistry
+### Physical Chemistry 
 Chapter 1 - Some Basic Concept of Chemistry
 
 Chapter 2 - State of Matter
