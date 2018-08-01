@@ -3,8 +3,8 @@ templateKey: 'blog-post'
 path: /chemistry
 title: Chemistry
 ---
-## Chemistry
-### Physical Chemistry 
+# Chemistry
+## Physical Chemistry 
 Chapter 1 - Some Basic Concept of Chemistry
 
 Chapter 2 - State of Matter
@@ -29,7 +29,7 @@ Chapter 11 - Chemical Kinetics
 
 Chapter 12 - Surface Chemistry
 
-#### Organic Chemistry 
+## Organic Chemistry 
 
 Chapter 1 - General Organic Chemistry
 
@@ -49,7 +49,7 @@ Chapter 8 - Biolmolecules
 
 Chapter 9 - Chemistry in Everyday Life
 
-#### InOragnic Chemistry
+## InOragnic Chemistry
 
 Chapter 1 - Classification of Element and Periodicity
 
