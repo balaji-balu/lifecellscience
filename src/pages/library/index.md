@@ -8,6 +8,8 @@ title: Digital library
 [NCERT Books from Class I to XII](http://ncert.nic.in/ebooks.html)
 
 ## Mathematics 
+[Differential calculus by Phillips, Henry Bayard, 1881]
+(https://ia902604.us.archive.org/2/items/differentialcbeg00philuoft/differentialcbeg00philuoft.pdf) 
 
 ## Biology 
 
