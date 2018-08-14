@@ -12,7 +12,8 @@ title: Digital library
 (https://ia902604.us.archive.org/2/items/differentialcbeg00philuoft/differentialcbeg00philuoft.pdf) 
 
 ## Biology 
-
+[General Biology by Strausbaugh,Perry D.; Weimer,Bernal R]
+(https://ia802708.us.archive.org/21/items/generalbiology032823mbp/generalbiology032823mbp.pdf)
 ## Chemistry
 
 [Elementary chemistry by Linebarger, C. E. (Charles Elijah), b. 1867](https://ia800207.us.archive.org/7/items/elemchemistrylin00linerich/elemchemistrylin00linerich.pdf) 
