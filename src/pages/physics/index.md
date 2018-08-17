@@ -4,32 +4,32 @@ path: /physics
 title: Physics
 ---
 
-# Physics Part I
-## Chapter 1 –  Introduction of Physics
-## Chapter 2 –  Physics and Mathemtics
-## Chapter 3 –  Kinematics - Rest and Motion
-## Chapter 4 –  The forces
-## Chapter 5 –  Newtons's Laws of Motion
-## Chapter 6 –  Friction 
-## Chapter 7 –  Circular Motion
-## Chapter 8 –  Work an Energy
-## Chapter 9 –  Centre of Mass, Linear Momentum, Collision
-## Chapter 10 – Rotational Mechanics
-## Chapter 11 – Gravitation
-## Chapter 12 – Simple Harmonic Motion
-## Chapter 13 – Fluid Motion
-## Chapter 14 – Some Mechanical Properties of Matter
-## Chapter 15 – Wave Motion and Waves on a String
-## Chapter 16 – Sound Waves
-## Chapter 17 – Light Waves
-## Chapter 18 – Geometrica Optics
-## Chapter 19 – Optical Instruments
-## Chapter 20 – Dispersion and Sprectra
-## Chapter 21 – Speed of Light
+##  Introduction of Physics
+##  Physics and Mathematics
+##  Units and Measurements
+##  Motion and Rest
+##  Types of Motion
+##  Motion in a Straight Line - Kinematics
+##  Elementary of Vectores
+##  Motion in a Plane - Newtons's Laws of Motion
+##  Friction 
+##  Circular Motion
+##  Work an Energy
+##  Centre of Mass, Linear Momentum, Collision
+##  Rotational Mechanics
+##  Gravitation
+##  Simple Harmonic Motion
+##  Fluid Motion
+##  Some Mechanical Properties of Matter
+##  Wave Motion and Waves on a String
+##  Sound Waves
+##  Light Waves
+##  Geometrica Optics
+##  Optical Instruments
+##  Dispersion and Sprectra
+##  Speed of Light
 
-# Physics Part II
-
-## Chapter 1 – Electric Charges and Fields
+## Electric Charges and Fields
 ### Coulombs Law
 The interaction between charged objects is a non-contact force that acts over some distance of separation. Charge, charge and distance. Every electrical interaction involves a force that highlights the importance of these three variables. Whether it is a plastic golf tube attracting paper bits, two like-charged balloons repelling or a charged Styrofoam plate interacting with electrons in a piece of aluminum, there is always two charges and a distance between them as the three critical variables that influence the strength of the interaction. In this section of Lesson 3, we will explore the importance of these three variables.
 
