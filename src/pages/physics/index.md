@@ -7,26 +7,24 @@ title: Physics
 ###  Introduction of Physics
 ###  Physics and Mathematics
 ###  Units and Measurements
-#### Performing a measurement means comparing an unknown physical (or chemical) quantity with a quantity of the same type taken as reference using an instrument.
+#### Physics is about the study of energy and forces. In order to test and measure physical quantities we need to define some standard measures which we everyone can agree on. These standards can never perfectly accurate because they are rooted in the physical world but every endevour is made to make them as precise as possible. The internationally recognised authority for the definition of these standards is the Conference Generale des Poids et Measures (CGPM).
 
-A measurement necessarily involves a reference frame and therefore units. In the not so distant past, there were numerous units, which had little in common with each other. The first coherent system of units only appeared with the French revolution: the metric system. This system was internationally ratified by the Metre Convention on 20 May 1875, a diplomatic treaty which set up the Bureau International des Poids et Mesures (BIPM).
+### Units
+#### We must ensure that the result we use in our calculations are in the correct units. The consequence of getting it wrong can be very expensive as with the loss of the NASA Mars Climate Orbiter spacecraft in 1999. It spun out of control because part of the software assumed Imperial units and another part assumed metric units.
 
-In 1960, during the eleventh Conférence Générale des Poids et Mesures (CGPM), the International System of Units, the SI, was developed. It now includes two classes of units :
+#### The units by which we now measure physical quantities is called the S.I. (System International) system established in 1960. Within this system, the most commonly used set of units in physics are M.K.S (Metres, Kilograms, Seconds) system
 
-Fundamental Physical Quantity 
-Derived Physical Quantity 
-We must not believe, however, that once set up, this system is fixed. Progress made in science and technology and the new requirements from society and therefore the needs in terms of increased accuracy, will led the LNE and all national metrology institutes to continuously improve the practical realisation of all SI units. And this concern involves the references as well as the means for transfer to the users, to allow matching at best these new needs. Definitions of units sometimes need to be changed and new definitions added.
-The base units and their definitions
-To date, the International System of Units, the SI, is made up of seven base units (between brackets the sole/single symbol representing it) :
+### Base Units
+The basic units are shown in below Table.
 
-The metre (m)
-The kilogram (kg)
-The second (s)
-The ampere (A)
-The kelvin (K)
-The candela (cd)
-The mole (mol)
-
+Quantity	Unit
+1. Length            	    Metre (m)
+2. Mass	                  Kilogram (kg)
+3. Time	                  Second (s)
+4. Electric Charge	      Ampere (A)
+5. Temperature	          Kelvin (K)
+6. Luminenscent Intensity	Candela (Cd)
+7. Amount of Substance    Mole (mol)
 
 
 ###  Motion and Rest
