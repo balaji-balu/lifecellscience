@@ -3,6 +3,41 @@ templateKey: 'blog-post'
 path: /physics
 title: Physics
 ---
+### Chapter List 
+####  Introduction of Physics
+####  Physics and Mathematics
+####  Units and Measurements
+####  Motion and Rest
+####  Types of Motion
+####  Motion in a Straight Line - Kinematics
+####  Elementary of Vectors
+####  Motion in a Plane - Newtons's Laws of Motion
+####  Friction 
+####  Circular Motion
+####  Work an Energy
+####  Centre of Mass, Linear Momentum, Collision
+####  Rotational Mechanics
+####  Gravitation
+####  Simple Harmonic Motion
+####  Fluid Motion
+####  Some Mechanical Properties of Matter
+####  Wave Motion and Waves on a String
+####  Sound Waves
+####  Light Waves
+####  Geometrica Optics
+####  Optical Instruments
+####  Dispersion and Sprectra
+####  Speed of Light
+#### Electric Charges and Fields
+#### Electrostatic Potential and Capacitance.
+#### Current Electricity.
+#### Moving Charges and Magnetism.
+#### Magnetism and Matter.
+#### Electromagnetic Induction.
+#### Alternating Current.
+#### Electromagnetic Waves.
+#### Waves
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ###  Introduction of Physics
 ###  Physics and Mathematics
