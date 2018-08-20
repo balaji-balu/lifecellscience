@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
 path: /sciencelab
-title: Physics
+title: Science Lab
 ---
 Science Lab content goes here
