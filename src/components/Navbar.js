@@ -50,6 +50,10 @@ class Navbar extends React.Component {
             <Link className="navbar-item" to="/biology">
               Biology
             </Link>
+            <Link className="navbar-item" to="/sciencelab">
+              Science Lab
+            </Link>
+
             <Link className="navbar-item" to="/library">
               Library
             </Link>
