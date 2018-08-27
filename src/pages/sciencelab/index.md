@@ -15,6 +15,8 @@ title: Science Lab
 
 ## Class XI 
 ## Experiment - 1
+[Click here]
+(https://ia601502.us.archive.org/31/items/ClassIXPhyPract1/Class-IX-PhyPract-1.pdf) 
 ### Use of Vernier Callipers to
 ### (i) measure diameter of a small spherical/cylindrical body,
 ### (ii) measure the dimensions of a given regular body of known mass and hence to determine its density; and
