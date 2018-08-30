@@ -8,6 +8,24 @@ tags:
   - maths
   - trignometry
 ---
+# Mathematics
+## Chapter 1 - Sets
+## Chapter 2 - Relations and Functions
+## Chapter 3 - Trigonometric Functions
+## Chapter 4 - Principle of Mathematical Induction
+## Chapter 5 - Complex Numbers and Quadratic Equations
+## Chapter 6 - Linear Inequalities
+## Chapter 7 - Permutations and Combinations
+## Chapter 8 - Binomial Theorem
+## Chapter 9 - Sequences and Series
+## Chapter 10 - Straight Lines
+## Chapter 11 - Conic Sections
+## Chapter 12 - Introduction to Three Dimensional Geometry
+## Chapter 13 - Limits and Derivatives
+## Chapter 14 - Mathematical Reasoning
+## Chapter 15 - Statistics
+## Chapter 16 - Probability
+
 ### Set Theory
 
  Introduction: A set is a collection of an object. We have to describe a sets concept by using geometrical diagram. A bag contains a well defined red color balls. Therefore a bag is Set and red color balls are a well defined elements. 
