@@ -13,7 +13,8 @@ title: Science Lab
 
 # Physics Lab
 
-## Class XI:Experiment - 1
+## Class XI
+## Experiment - 1
 [Click here](https://ia601502.us.archive.org/31/items/ClassIXPhyPract1/Class-IX-PhyPract-1.pdf) 
 ### Use of Vernier Callipers to
 ### (i) measure diameter of a small spherical/cylindrical body,
@@ -28,12 +29,15 @@ title: Science Lab
 ### (c) determine volume of an irregular lamina.
 
 ## Experiment - 3
+[Click here](https://ia601508.us.archive.org/7/items/ClassIXPhyPract3/Class-IX-PhyPract-3.pdf) 
 ### To determine the radius of curvature of a given spherical surface by a spherometer.
 
 ## Experiment - 4
+
 ### To determine mass of two different objects using a beam balance.
 
 ## Experiment -5
+
 ### Measurement of the weight of a given body (a wooden block) using the parallelogram law of vector addition.
 
 # Chemistry Lab
