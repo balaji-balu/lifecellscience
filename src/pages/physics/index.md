@@ -102,6 +102,9 @@ A Galvanometer of resistance G is connected across one set of diagonally opposit
 When key K is closed current I is drawn from source. It splits as I1 and I2 at junction A and flows throught R1 and R2 resistors.
 Current I2 splits at junction B and flows as IG and I4 through galvanometer and resistor r4 respectively.
 IG and I1 Combine at junction D and flows as I3 through the resistor R3.
+
+![Figure:1](/img/wheatstone-bridge.png)
+
 ### Moving Charges and Magnetism.
 ### Magnetism and Matter.
 ### Electromagnetic Induction.
