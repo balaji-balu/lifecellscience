@@ -105,6 +105,17 @@ IG and I1 Combine at junction D and flows as I3 through the resistor R3.
 
 ![Figure:1](/img/wheatstone-bridge.png)
 
+#### Condision for balancing of bridge:
+A wheatstone bridge is said to be balanced when there is current through the galvanometer that is IG = 0. 
+The Krichoff's junction rule applied to junctions D and B. immediately to give us the relations I1 = I3 and I2 =I4. Next, we apply kirchoff's loop rules to closed loops ABDA and CBDC  and taking IG =0.
+The first loop gives 
+-I_1R_1 + I_G + I_2R_2 = 0
+-I1R1 + 0 + I2R2 = 0
+-I1R1 + I2R2 = 0
+I1R1 = I2R2 
+I3R1 = I4R2 
+\dfrac{I3}{I4}  = \dfrac{R2}{R1} \\
+\dfrac{I1}{I2}  = \dfrac{R4}{R3} \\
 ### Moving Charges and Magnetism.
 ### Magnetism and Matter.
 ### Electromagnetic Induction.
