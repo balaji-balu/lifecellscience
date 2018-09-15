@@ -43,7 +43,6 @@ title: Physics
 ###  Physics and Mathematics
 ###  Units and Measurements
 #### Physics is about the study of energy and forces. In order to test and measure physical quantities we need to define some standard measures which we everyone can agree on. These standards can never perfectly accurate because they are rooted in the physical world but every endevour is made to make them as precise as possible. The internationally recognised authority for the definition of these standards is the Conference Generale des Poids et Measures (CGPM).
-
 ### Units
 #### We must ensure that the result we use in our calculations are in the correct units. The consequence of getting it wrong can be very expensive as with the loss of the NASA Mars Climate Orbiter spacecraft in 1999. It spun out of control because part of the software assumed Imperial units and another part assumed metric units.
 
@@ -109,13 +108,25 @@ IG and I1 Combine at junction D and flows as I3 through the resistor R3.
 A wheatstone bridge is said to be balanced when there is current through the galvanometer that is IG = 0. 
 The Krichoff's junction rule applied to junctions D and B. immediately to give us the relations I1 = I3 and I2 =I4. Next, we apply kirchoff's loop rules to closed loops ABDA and CBDC  and taking IG =0.
 The first loop gives 
--I_1R_1 + I_G + I_2R_2 = 0
--I1R1 + 0 + I2R2 = 0
--I1R1 + I2R2 = 0
-I1R1 = I2R2 
-I3R1 = I4R2 
-\dfrac{I3}{I4}  = \dfrac{R2}{R1} \\
-\dfrac{I1}{I2}  = \dfrac{R4}{R3} \\
+#### -I1R1 + IG + I2R2 = 0
+#### -I1R1 + 0 + I2R2 = 0 (IG = 0)
+#### -I1R1 + I2R2 = 0
+#### I1R1 = I2R2 
+#### I3R1 = I4R2 (I1=I3 and I2=I4)
+#### I3/I4 = R2/R1 ------------------ (1)
+
+Similarly,
+#### -I3R3 + IG + I4R4 = 0
+#### -I3R3 + 0 + I4R4 = 0 (IG = 0)
+#### -I3R3 + I4R4 = 0
+#### I3R3 = I4R4
+#### I1R3 = I2R4 (I1=I3 and I2=I4)
+#### I1/I2 = R4/R3 ------------------ (2)
+#### from equation (1) and equation (2)
+#### we have conclude that,
+#### R2/R1 = R4/R3
+#### this is Wheatstone bridge balanced condition.
+
 ### Moving Charges and Magnetism.
 ### Magnetism and Matter.
 ### Electromagnetic Induction.
