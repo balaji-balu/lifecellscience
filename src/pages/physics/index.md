@@ -4,7 +4,7 @@ path: /physics
 title: Physics
 ---
 ### Chapter List 
-####  Introduction of Physics
+####  *Introduction of Physics*
 ####  Physics and Mathematics
 ####  Units and Measurements
 ####  Motion and Rest
@@ -85,7 +85,7 @@ The basic units are shown in below Table.
 
 ### Electric Charges and Fields
 #### Coulombs Law
-The interaction between charged objects is a non-contact force that acts over some distance of separation. Charge, charge and distance. Every electrical interaction involves a force that highlights the importance of these three variables. Whether it is a plastic golf tube attracting paper bits, two like-charged balloons repelling or a charged Styrofoam plate interacting with electrons in a piece of aluminum, there is always two charges and a distance between them as the three critical variables that influence the strength of the interaction. In this section of Lesson 3, we will explore the importance of these three variables.
+*The interaction between charged objects is a non-contact force that acts over some distance of separation. Charge, charge and distance. Every electrical interaction involves a force that highlights the importance of these three variables. Whether it is a plastic golf tube attracting paper bits, two like-charged balloons repelling or a charged Styrofoam plate interacting with electrons in a piece of aluminum, there is always two charges and a distance between them as the three critical variables that influence the strength of the interaction. In this section of Lesson 3, we will explore the importance of these three variables.*
 
 ![Figure:1](/img/coulom1.png)
 
