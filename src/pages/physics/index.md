@@ -96,25 +96,25 @@ The electrical force, like all forces, is typically expressed using the unit New
 ### Current Electricity.
 #### Wheatstone Bridge
 A resistance can be measured by Ohm’s law using a voltmeter and an ammeter in an electrical circuit. But this measurement is not accurate. To measure it more accurately Kristie devised and Wheatstone popularized a special network design called Wheatstone bridge. It is an arrangement of four resistances which can be used to measure one of them in terms of the rest. 
-The four resistors R1, R2, R3 and R4 are connected as four sides of a quadrilateral ABCD as shown in figure.
+The four resistors R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> and R<sub>4</sub> are connected as four sides of a quadrilateral ABCD as shown in figure.
 A Galvanometer of resistance G is connected across one set of diagonally opposite corners B and D. A source of emf E with plug key K is connected across another set of diagonally opposite corners A and C.
-When key K is closed current I is drawn from source. It splits as I<sub>1</sub> and I<sub>2</sub> at junction A and flows throught R1 and R2 resistors.
-Current I2 splits at junction B and flows as IG and I4 through galvanometer and resistor r4 respectively.
-IG and I1 Combine at junction D and flows as I3 through the resistor R3.
+When key K is closed current I is drawn from source. It splits as I<sub>1</sub> and I<sub>2</sub> at junction A and flows throught R<sub>1</sub> and R<sub>2</sub> resistors.
+Current I<sub>2</sub> splits at junction B and flows as I<sub>G</sub> and I<sub>4</sub> through galvanometer and resistor R<sub>4</sub> respectively.
+I<sub>G</sub> and I<sub>1</sub> Combine at junction D and flows as I<sub>3</sub> through the resistor R<sub>3</sub>.
 
 ![Figure:1](/img/wheatstone-bridge.png)
 
 #### Condision for balancing of bridge:
-A wheatstone bridge is said to be balanced when there is current through the galvanometer that is IG = 0. 
-The Krichoff's junction rule applied to junctions D and B. immediately to give us the relations I1 = I3 and I2 =I4. Next, we apply kirchoff's loop rules to closed loops ABDA and CBDC  and taking IG =0.
-The first loop gives 
-#### -I1R1 + IG + I2R2 = 0
-#### -I1R1 + 0 + I2R2 = 0 (IG = 0)
-#### -I1R1 + I2R2 = 0
-#### I1R1 = I2R2 
-#### I3R1 = I4R2 (I1=I3 and I2=I4)
-#### I3/I4 = R2/R1 ------------------ (1)
+A wheatstone bridge is said to be balanced when there is current through the galvanometer that is I<sub>G</sub> = 0. 
+The Kirchoff's junction rule applied to junctions D and B. immediately to give us the relations I<sub>1</sub> = I<sub>3</sub> and I<sub>2</sub> = I<sub>4</sub>. Next, we apply kirchoff's loop rules to closed loops ABDA and CBDC  and taking I<sub>G</sub> = 0.
 
+The first loop gives 
+#### -I<sub>1</sub>R<sub>1</sub> + I<sub>G</sub> + I<sub>2</sub>R<sub>2</sub> = 0
+#### -I<sub>1</sub>R<sub>1</sub> + 0 + I<sub>2</sub>R<sub>2</sub> = 0 (I<sub>G</sub> = 0)
+#### -I<sub>1</sub>R<sub>1</sub> + I<sub>2</sub>R<sub>2</sub> = 0
+#### I<sub>1</sub>R<sub>1</sub> = I<sub>2</sub>R<sub>2</sub> 
+#### I<sub>3</sub>R<sub>1</sub> = I<sub>4</sub>R<sub>2</sub> (we know that I<sub>1</sub>=I<sub>3</sub> and I<sub>2</sub> = I<sub>4</sub>)
+#### \frac{I<sub>3</sub>}{I<sub>4</sub>!} = \frac{R<sub>2</sub>}{R<sub>1</sub>!}------------(1)
 Similarly,
 #### -I3R3 + IG + I4R4 = 0
 #### -I3R3 + 0 + I4R4 = 0 (IG = 0)
