@@ -115,7 +115,7 @@ The first loop gives
 #### I<sub>1</sub>R<sub>1</sub> = I<sub>2</sub>R<sub>2</sub> 
 #### I<sub>3</sub>R<sub>1</sub> = I<sub>4</sub>R<sub>2</sub> (we know that I<sub>1</sub>=I<sub>3</sub> and I<sub>2</sub> = I<sub>4</sub>)
 #### \frac{I<sub>3</sub>}{I<sub>4</sub>!} = \frac{R<sub>2</sub>}{R<sub>1</sub>!}------------(1)
-#### $\frac{I<sub>3</sub>}{I<sub>4</sub>}$ = $\frac{R<sub>2</sub>}{R<sub>1</sub>}$
+#### $\frac{I_{3}}{I_{4}}$ = $\frac{R_{2}}{R_{1}}$
 Similarly,
 #### -I3R3 + IG + I4R4 = 0
 #### -I3R3 + 0 + I4R4 = 0 (IG = 0)
