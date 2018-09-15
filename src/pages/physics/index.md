@@ -3,8 +3,7 @@ templateKey: 'blog-post'
 path: /physics
 title: Physics
 ---
-### Chapter List 
-{: .gitlab-orange}
+### <span style="color:red"> Chapter List </span>
 ####  *Introduction of Physics*
 ####  Physics and Mathematics
 ####  Units and Measurements
