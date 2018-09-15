@@ -4,7 +4,7 @@ path: /physics
 title: Physics
 ---
 ### <span style="color:red"> Chapter List</span>
-####  *Introduction of Physics
+####  Introduction of Physics
 ####  Physics and Mathematics
 ####  Units and Measurements
 ####  Motion and Rest
