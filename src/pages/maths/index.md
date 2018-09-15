@@ -260,3 +260,8 @@ $$
 $$
 AB = AC^2 - BC^2  and PR = PQ^2 - QR^2
 $$
+
+| header 1 | header 2 |
+| -------- | -------- |
+| cell 1   | cell 2   |
+| cell 3   | cell 4   |
