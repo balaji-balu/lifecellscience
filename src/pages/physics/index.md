@@ -104,7 +104,7 @@ The four resistors R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> and R<sub>4</sub>
 A Galvanometer of resistance G is connected across one set of diagonally opposite corners B and D. A source of emf E with plug key K is connected across another set of diagonally opposite corners A and C.
 When key K is closed current I is drawn from source. It splits as I<sub>1</sub> and I<sub>2</sub> at junction A and flows throught R<sub>1</sub> and R<sub>2</sub> resistors.
 Current I<sub>2</sub> splits at junction B and flows as I<sub>G</sub> and I<sub>4</sub> through galvanometer and resistor R<sub>4</sub> respectively.
-I<sub>G</sub> and I<sub>1</sub> Combine at junction D and flows as I<sub>3</sub> through the resistor R<sub>3</sub.*
+I<sub>G</sub> and I<sub>1</sub> Combine at junction D and flows as I<sub>3</sub> through the resistor R<sub>3</sub>.*
 
 ![Figure:1](/img/wheatstone-bridge.png)
 
