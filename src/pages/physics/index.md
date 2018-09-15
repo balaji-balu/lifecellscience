@@ -94,6 +94,10 @@ The electrical force, like all forces, is typically expressed using the unit New
 
 ### Electrostatic Potential and Capacitance.
 ### Current Electricity.
+#### Ohm's Law
+#### Kirchoff's Law
+#### Kirchoff's current Law or Junction Law
+#### Kirchoff's Voltage Law or Loop Law
 #### Wheatstone Bridge
 A resistance can be measured by Ohm’s law using a voltmeter and an ammeter in an electrical circuit. But this measurement is not accurate. To measure it more accurately Kristie devised and Wheatstone popularized a special network design called Wheatstone bridge. It is an arrangement of four resistances which can be used to measure one of them in terms of the rest. 
 The four resistors R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub> and R<sub>4</sub> are connected as four sides of a quadrilateral ABCD as shown in figure.
@@ -116,15 +120,16 @@ The first loop gives
 #### I<sub>3</sub>R<sub>1</sub> = I<sub>4</sub>R<sub>2</sub> (we know that I<sub>1</sub>=I<sub>3</sub> and I<sub>2</sub> = I<sub>4</sub>)
 #### $\frac{I_{3}}{I_{4}}$ = $\frac{R_{2}}{R_{1}}$ ----------------(1)
 Similarly,
-#### -I3R3 + IG + I4R4 = 0
-#### -I3R3 + 0 + I4R4 = 0 (IG = 0)
-#### -I3R3 + I4R4 = 0
-#### I3R3 = I4R4
-#### I1R3 = I2R4 (I1=I3 and I2=I4)
+#### -I<sub>3</sub>R<sub>3</sub> + I<sub>G</sub> + I<sub>4</sub>R<sub>4</sub> = 0
+#### -I<sub>3</sub>R<sub>3</sub> + 0 + I<sub>4</sub>R</sub>4 = 0 (I<sub>G</sub> = 0)
+#### -I<sub>3</sub>R<sub>3</sub> + I<sub>4</sub>R<sub>4</sub> = 0
+#### I<sub>3</sub>R<sub>3</sub> = I<sub>4</sub>R<sub>4</sub>
+#### I<sub>1</sub>R<sub>3</sub> = I<sub>2</sub>R<sub>4</sub> (we know I<sub>1</sub>= I<sub>3</sub> and I<sub>2</sub>= I<sub>4</sub>)
 
 #### $\frac{I_{1}}{I_{2}}$ = $\frac{R_{4}}{R_{3}}$ ----------------(2)
 #### from equation (1) and equation (2)
 #### we have conclude that,
+#### $\frac{R_{2}}{R_{1}}$ = $\frac{R_{4}}{R_{3}}$
 #### R2/R1 = R4/R3
 #### this is Wheatstone bridge balanced condition.
 
