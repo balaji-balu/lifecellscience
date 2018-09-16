@@ -98,11 +98,20 @@ The electrical force, like all forces, is typically expressed using the unit New
 #### Kirchoff's Law
 *Omh's Law gives current- voltage relation in simple electrical circuits. But when the circuit is complicated, it will be difficult to find current distribution by Omh's law.*
 *Kirchoff in 1842 formulated the following two laws which enable us to find the distribution of current in complicatied electrical circuits or electrical networks.*
-
+*There are two types of Kirchoff's law.* 
+*1. Kirchoff's Current Law or Kirchoff's Junction Law*
+*2. Kirchoff's Voltage Law or Kirchoff's Loop Law*
 #### Kirchoff's current Law or Junction Law
 *At any junction, the sum of the currents entering the junction is equal to the sum of currents leave the junction.
 ![Figure](/img/KCL.png)
 
+#### *Sum of Input Current = Sum of Output Current*
+#### *I<sub>1</sub> + I<sub>2</sub> + I<sub>3</sub> = I<sub>4</sub> + I<sub>5</sub>*
+#### *If we take currents approaching point of Junction in figure as positive and that leaving the point as negative then the above relation may be written as*  
+#### I<sub>1</sub> + I<sub>2</sub> + I<sub>3</sub> - I<sub>4</sub> - I<sub>5</sub> = 0
+#### *Hence the first law may be stated in other words that "The algebraic sum of currents at a junction is zero". Kirchoffs first law tells us that there is no accumulation of charge at any point if steady current flows in it. the net charge coming towards the point should be equalto that going away from it in the same time*
+#### *\sum I = 0*
+#### **Key Point*** : *Kirchoff's first law is accordance with law of Conservation of charge, since no charge can accumulate at a junction*
 #### Kirchoff's Voltage Law or Loop Law
 #### Wheatstone Bridge
 *A resistance can be measured by Ohm’s law using a voltmeter and an ammeter in an electrical circuit. But this measurement is not accurate. To measure it more accurately Kristie devised and Wheatstone popularized a special network design called Wheatstone bridge. It is an arrangement of four resistances which can be used to measure one of them in terms of the rest.
