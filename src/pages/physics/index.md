@@ -96,7 +96,13 @@ The electrical force, like all forces, is typically expressed using the unit New
 ### Current Electricity.
 #### Ohm's Law
 #### Kirchoff's Law
+*Omh's Law gives current- voltage relation in simple electrical circuits. But when the circuit is complicated, it will be difficult to find current distribution by Omh's law.*
+*Kirchoff in 1842 formulated the following two laws which enable us to find the distribution of current in complicatied electrical circuits or electrical networks.*
+
 #### Kirchoff's current Law or Junction Law
+*At any junction, the sum of the currents entering the junction is equal to the sum of currents leave the junction.
+![Figure](/img/KCL.png)
+
 #### Kirchoff's Voltage Law or Loop Law
 #### Wheatstone Bridge
 *A resistance can be measured by Ohm’s law using a voltmeter and an ammeter in an electrical circuit. But this measurement is not accurate. To measure it more accurately Kristie devised and Wheatstone popularized a special network design called Wheatstone bridge. It is an arrangement of four resistances which can be used to measure one of them in terms of the rest.
