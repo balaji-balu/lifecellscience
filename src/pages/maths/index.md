@@ -266,7 +266,21 @@ $$
 | cell 1   | cell 2   |
 | cell 3   | cell 4   |
 
-| Left Aligned | Centered | Right Aligned | Left Aligned | Centered | Right Aligned |
-| :----------- | :------: | ------------: | :----------- | :------: | ------------: |
-| Cell 1       | Cell 2   | Cell 3        | Cell 4       | Cell 5   | Cell 6        |
-| Cell 7       | Cell 8   | Cell 9        | Cell 10      | Cell 11  | Cell 12       |
+| S.No |                   Title                     | 
+| :--- | :-----------------------------------------: | 
+|  1   | Sets                                        |  
+|  2   | Relation and Function                       |  
+|  3   | Trigonometry Function                       |   
+|  4   | Principle of Mathematical Induction         |  
+|  5   | complex numbers and Quadratic Equation      | 
+|  6   | Linear Inequalities                         |  
+|  7   | Permutationa and Combinations               | 
+|  8   | Binomial Theorm                             |  
+|  9   | Sequences and Series                        |
+|  10  | Straight Lines                              |
+|  11  | Conic Sections                              |
+|  12  | Introduction to Three Dimensional Geometry  |
+|  13  | Limits and Derivatives
+|  14  | Mathematical Reasoning
+|  15  | Statistics
+|  16  | Probability
