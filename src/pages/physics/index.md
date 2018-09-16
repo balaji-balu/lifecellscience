@@ -71,6 +71,11 @@ The basic units are shown in below Table.
 ###  Work an Energy
 
 #### Collision
+** The Strong physical interaction among bodies involving exchange of momenta in small interval of time, is called a Collision.**
+*In collision particles may or may not come in real physical contact.*
+
+*In a collision, before and after the impact, interaction forces between the colliding particles, becoomes efficitively zero, while during impact, the interaction forces are very large. in a collision  the effect of external forces such as gravity or friction are not taken into account as due to small duration of collision, average impulsive force responsible for the collision is much larger than external force acting on the system.*
+
 ###  Centre of Mass, Linear Momentum, Collision
 ###  Rotational Mechanics
 ###  Gravitation
@@ -114,7 +119,7 @@ The electrical force, like all forces, is typically expressed using the unit New
 ##### *If we take currents approaching point of Junction in figure as positive and that leaving the point as negative then the above relation may be written as*  
 ##### *I<sub>1</sub> + I<sub>2</sub> + I<sub>3</sub> - I<sub>4</sub> - I<sub>5</sub> = 0*
 ##### *Hence the first law may be stated in other words that "The algebraic sum of currents at a junction is zero". Kirchoffs first law tells us that there is no accumulation of charge at any point if steady current flows in it. the net charge coming towards the point should be equalto that going away from it in the same time*
-#*$$\Sigma$$ = 0*
+#### #*$$\Sigma$$I= 0*
 **Key Point*** : *Kirchoff's first law is accordance with law of Conservation of charge, since no charge can accumulate at a junction*
 
 #### Kirchoff's Voltage Law or Loop Law
