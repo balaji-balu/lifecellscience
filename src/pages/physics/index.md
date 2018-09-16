@@ -69,14 +69,16 @@ The basic units are shown in below Table.
 ###  Friction 
 ###  Circular Motion
 ###  Work an Energy
+###  Centre of Mass, Linear Momentum, Collision
 
 #### Collision
-** The Strong physical interaction among bodies involving exchange of momenta in small interval of time, is called a Collision.**
+*The Strong physical interaction among bodies involving exchange of momenta in small interval of time, is called a Collision.*
 *In collision particles may or may not come in real physical contact.*
 
 *In a collision, before and after the impact, interaction forces between the colliding particles, becoomes efficitively zero, while during impact, the interaction forces are very large. in a collision  the effect of external forces such as gravity or friction are not taken into account as due to small duration of collision, average impulsive force responsible for the collision is much larger than external force acting on the system.*
 
-###  Centre of Mass, Linear Momentum, Collision
+![Figure](/img/Collision.png)
+
 ###  Rotational Mechanics
 ###  Gravitation
 ###  Simple Harmonic Motion
