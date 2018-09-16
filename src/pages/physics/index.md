@@ -114,7 +114,7 @@ The electrical force, like all forces, is typically expressed using the unit New
 ##### *If we take currents approaching point of Junction in figure as positive and that leaving the point as negative then the above relation may be written as*  
 ##### *I<sub>1</sub> + I<sub>2</sub> + I<sub>3</sub> - I<sub>4</sub> - I<sub>5</sub> = 0*
 ##### *Hence the first law may be stated in other words that "The algebraic sum of currents at a junction is zero". Kirchoffs first law tells us that there is no accumulation of charge at any point if steady current flows in it. the net charge coming towards the point should be equalto that going away from it in the same time*
-#*\sum I = 0*
+#*$$\Sigma$$ = 0*
 **Key Point*** : *Kirchoff's first law is accordance with law of Conservation of charge, since no charge can accumulate at a junction*
 
 #### Kirchoff's Voltage Law or Loop Law
