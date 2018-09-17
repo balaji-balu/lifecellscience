@@ -108,8 +108,8 @@ The electrical force, like all forces, is typically expressed using the unit New
 
 According to Ohm's Law 
 #### *V $$\alpha$$ I*
-*i.e., *V = (Constant) I
-*$\frac{V}{I}$ = Constant*
+*i.e., V = (Constant) I
+#### *$\frac{V}{I}$ = Constant*
 #### *The constant in the above relation is called resistance (R) of the conductor*
 #### *∴  $\frac{V}{I}$ = R*
 #### *V = IR*
