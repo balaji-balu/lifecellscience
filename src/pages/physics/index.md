@@ -107,7 +107,19 @@ The electrical force, like all forces, is typically expressed using the unit New
 *We have studies that when a potential difference is applied between the ends of a conductors, current begins to flow through it. George Simon Ohm, a German physicist performed a series of experiments to determine the exact relationship between the potential difference and the electric current. On the basis of these experiments, he formulated a law which is called Ohm's Law and can be stated as, the potential difference(V) applied between the ends of a conductor bears a constant ratio with the electric current(I) flowing through it, provided the physical state of the conductor remains the same. the factors which constitute physical state of conductor are its lenght, area of cross section, temperature and material.* 
 
 According to Ohm's Law 
-#### *V I*
+#### *V $$\alpha$$ I*
+*i.e., *V = (Constant) I
+*$\frac{V}{I}$ = Constant*
+#### *The constant in the above relation is called resistance (R) of the conductor*
+#### *∴  $\frac{V}{I}$ = R*
+#### *V = IR*
+#### *If the potential difference is measured in volts and current in amperes, the resistance of conductor is said to be in ohms.*
+#### *$\frac{Volt}{Ampere}$ = Ohm*
+#### *The resistance of a conductor is said to be 1 ohm if the potential difference of 1 volt causes a current of 1 ampere to pass through the conductor.*
+#### <span style="color:red"> *$\frac{1Volt}{1Ampere}$ = 1Ohm* </span>
+#### 
+
+
 #### Kirchoff's Law
 ##### *Omh's Law gives current- voltage relation in simple electrical circuits. But when the circuit is complicated, it will be difficult to find current distribution by Omh's law.*
 ##### *Kirchoff in 1842 formulated the following two laws which enable us to find the distribution of current in complicatied electrical circuits or electrical networks.*
@@ -161,7 +173,7 @@ The Kirchoff's junction rule applied to junctions D and B. immediately to give u
 #### from equation (1) and equation (2)
 #### we have conclude that,
 #### $\frac{R_{2}}{R_{1}}$ = $\frac{R_{4}}{R_{3}}$
-#### R2/R1 = R4/R3
+
 #### this is Wheatstone bridge balanced condition.
 
 ### Moving Charges and Magnetism.
