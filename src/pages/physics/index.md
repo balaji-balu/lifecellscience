@@ -103,8 +103,11 @@ The electrical force, like all forces, is typically expressed using the unit New
 
 ### Electrostatic Potential and Capacitance.
 ### Current Electricity.
-#### Ohm's Law
+#### <span style="color:red"> Ohm's Law </span>
+*We have studies that when a potential difference is applied between the ends of a conductors, current begins to flow through it. George Simon Ohm, a German physicist performed a series of experiments to determine the exact relationship between the potential difference and the electric current. On the basis of these experiments, he formulated a law which is called Ohm's Law and can be stated as, the potential difference(V) applied between the ends of a conductor bears a constant ratio with the electric current(I) flowing through it, provided the physical state of the conductor remains the same. the factors which constitute physical state of conductor are its lenght, area of cross section, temperature and material.* 
 
+According to Ohm's Law 
+#### *V I*
 #### Kirchoff's Law
 ##### *Omh's Law gives current- voltage relation in simple electrical circuits. But when the circuit is complicated, it will be difficult to find current distribution by Omh's law.*
 ##### *Kirchoff in 1842 formulated the following two laws which enable us to find the distribution of current in complicatied electrical circuits or electrical networks.*
