@@ -30,22 +30,22 @@ title: Science Lab
 ##### Apparatus: 
 #####         Vernier calipers, sphere, cylinder and Glass plate
 ##### Formula:
-##### 1. 1.	Volume of the sphere (V) = $\frac{4}{2}$.$\pi$ r<sup>3</sup> cm<sup>3</sup>
+##### 1. 1.	Volume of the sphere (V) = $\frac{4}{3}$.$\pi$ r<sup>3</sup> cm<sup>3</sup>
 ##### Where r = $\frac{d}{2}$ = Radius of the sphere(cm), 
 ##### d= diameter of the sphere(cm)
 ##### 2.Radius of the sphere(r), Length (l) of the Cylindre and Length(l) and breadth(b) of the glass plate.
 ##### Total reading of the Vernier Callipers = Main scale reading + ( Vernier Coincident X Least Count) cm
 ##### Total reading of the Vernier Callipers = MSR + (V.C X L.C) cm
-##### Vernier Callipers Least Count = $\frac{1 Main Scale Division}{No of Division in Vernier Scale}$ cm
+##### Vernier Callipers Least Count = $\frac{1 Main Scale Division}{No.of Division in Vernier Scale}$ cm
 ##### Vernier Callipers Least Count = $\frac{1 M.S.D}{N}$ cm
 ##### Diagram
-![Figure](/img/Vernier Calipers.png)
+![Figure](/img/V.C.png)
 ##### Procedure: 
 ##### 1.To determine the radius of a sphere: 
 ##### * As shown in figure. grip the given sphere in between the external jaws. then note the reading on the main scale just before the zero division of the vernier scale as main scale reading(M.S.R) and the vernier scale division which coincides with one of the main scale divisions as vernier coincidence (V.C)(n).
 ##### * Determine the diameter of the sphere from total reading = M.S.R + (V.C x L.C).
 ##### * Repeat the experiment 5 times by keeping the sphere in different positions and tabulate  the reading in the table-1 and calculate average diameter of the sphere(d) with the radius of the sphere as r = $\frac{d}{2}$.
-##### * By Substituting above value radius(r), Volume of the sphere is calculated as V = $\frac{4}{2}$.$\pi$ r<sup>3</sup> cm<sup>3</sup>
+##### * By Substituting above value radius(r), Volume of the sphere is calculated as V = $\frac{4}{3}$.$\pi$ r<sup>3</sup> cm<sup>3</sup>
 ##### * Mass of the given sphere is calculated as m = V $\rho$.
 
 
