@@ -21,7 +21,7 @@ title: Science Lab
 #### (ii) measure the dimensions of a given regular body of known mass and hence to determine its density; and
 #### (iii) measure the internal diameter and depth of a given cylindrical object like beaker/glass/calorimeter and hence to calculate its volume.
 
-#### <center><span style="color:Orange"> Experiment :1 Vernier Calliper </span><center>
+### <center><span style="color:Orange"> Experiment :1 Vernier Calliper </span><center>
 
 ##### <span style="color:red">Aim:</sapn> 
 ##### By using Vernier Callipers,
