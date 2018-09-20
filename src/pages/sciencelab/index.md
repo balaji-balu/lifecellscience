@@ -58,6 +58,14 @@ title: Science Lab
 |  4   |                              |                        |                               |                      |
 |  5   |                              |                        |                               |                      |
 
+| S.No |Main Scale Reading(a) cm| Vernier Coincidence (n)|Extra Fraction b = n x L.C cm|Total Reading (a+b) cm|
+|------|------------------------|------------------------|-----------------------------|----------------------|
+|  1.  |                        |                        |                             |                      |
+|  2.  |                        |                        |                             |                      |
+|  3.  |                        |                        |                             |                      |
+|  4.  |                        |                        |                             |                      |
+|  5.  |                        |                        |                             |                      |
+
 ##### Calculation:
 
 
