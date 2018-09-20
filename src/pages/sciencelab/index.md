@@ -23,7 +23,8 @@ title: Science Lab
 
 #### <center><span style="color:Orange"> Experiment :1 Vernier Calliper </span><center>
 
-##### <span style="color:red">Aim:</sapn> By using Vernier Callipers,
+##### <span style="color:red">Aim:</sapn> 
+##### By using Vernier Callipers,
 ##### a.	Find the mass and Volume of given spherical body
 ##### b.	To find the length of given cylinder.
 ##### c.	To find the length and breadth of rectangular glass plate.
