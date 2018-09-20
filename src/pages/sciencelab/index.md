@@ -50,7 +50,7 @@ title: Science Lab
 ##### * By Substituting above value radius(r), Volume of the sphere is calculated as V = $\frac{4}{3}$.$\pi$ r<sup>3</sup> cm<sup>3</sup>
 ##### * Mass of the given sphere is calculated as m = V $\rho$.
 ##### Table:1
-| S.No |  Main Scal Reading (a) (cm) | Vernier Coincidence (n)| Extrea Fraction b= n X L.C(cm) |Total Reading (a+b)cm |
+| S.No |  Main Scale Reading (a) (cm) | Vernier Coincidence (n)| Extra Fraction b= n X L.C(cm) |Total Reading (a+b)cm |
 | :--- | :-------------------------: | :--------------------: | :----------------------------: | :------------------: | 
 |  1   |                             |                        |                                |                      |
 |  2   |                             |                        |                                |                      |
