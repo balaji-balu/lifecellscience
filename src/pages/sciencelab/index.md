@@ -21,33 +21,44 @@ title: Science Lab
 #### (ii) measure the dimensions of a given regular body of known mass and hence to determine its density; and
 #### (iii) measure the internal diameter and depth of a given cylindrical object like beaker/glass/calorimeter and hence to calculate its volume.
 
-#### Experiment :1 Vernier Calliper
+#### <span style="color:Orange"> Experiment :1 Vernier Calliper </span>
 
-##### Aim: By using Vernier Callipers,
+##### <span style="color:red">Aim:</sapn> By using Vernier Callipers,
 ##### a.	Find the mass and Volume of given spherical body
 ##### b.	To find the length of given cylinder.
 ##### c.	To find the length and breadth of rectangular glass plate.
-##### Apparatus: 
+##### <span style="color:red">Apparatus:</span> 
 #####         Vernier calipers, sphere, cylinder and Glass plate
-##### Formula:
+##### <span style="color:red">Formula:</span>
 ##### 1. 1.	Volume of the sphere (V) = $\frac{4}{3}$.$\pi$ r<sup>3</sup> cm<sup>3</sup>
 ##### Where r = $\frac{d}{2}$ = Radius of the sphere(cm), 
 ##### d= diameter of the sphere(cm)
+##### 3.Mass of the given sphere is calculated as m = V $\rho$
+##### Where $\rho$ = Density of the sphere (gm/cm<sup>3</sup>)
 ##### 2.Radius of the sphere(r), Length (l) of the Cylindre and Length(l) and breadth(b) of the glass plate.
 ##### Total reading of the Vernier Callipers = Main scale reading + ( Vernier Coincident X Least Count) cm
 ##### Total reading of the Vernier Callipers = MSR + (V.C X L.C) cm
 ##### Vernier Callipers Least Count = $\frac{1 Main Scale Division}{No.of Division in Vernier Scale}$ cm
 ##### Vernier Callipers Least Count = $\frac{1 M.S.D}{N}$ cm
-##### Diagram
+##### <span style="color:red"> Diagram </span>
 ![Figure](/img/V.C.png)
-##### Procedure: 
-##### 1.To determine the radius of a sphere: 
+##### <span style="color:red">Procedure: </span>
+##### <span style="color:green">1.To determine the radius of a sphere:</span> 
 ##### * As shown in figure. grip the given sphere in between the external jaws. then note the reading on the main scale just before the zero division of the vernier scale as main scale reading(M.S.R) and the vernier scale division which coincides with one of the main scale divisions as vernier coincidence (V.C)(n).
 ##### * Determine the diameter of the sphere from total reading = M.S.R + (V.C x L.C).
 ##### * Repeat the experiment 5 times by keeping the sphere in different positions and tabulate  the reading in the table-1 and calculate average diameter of the sphere(d) with the radius of the sphere as r = $\frac{d}{2}$.
 ##### * By Substituting above value radius(r), Volume of the sphere is calculated as V = $\frac{4}{3}$.$\pi$ r<sup>3</sup> cm<sup>3</sup>
 ##### * Mass of the given sphere is calculated as m = V $\rho$.
+##### Table:1
+| S.No |  Main Scal Reading (a) (cm) | Vernier Coincidence (n)| Extrea Fraction b= n X L.C(cm) |Total Reading (a+b)cm |
+| :--- | :-------------------------: | :--------------------: | :----------------------------: | :------------------: | 
+|  1   |                             |                        |                                |                      |
+|  2   |                             |                        |                                |                      |
+|  3   |                             |                        |                                |                      |
+|  4   |                             |                        |                                |                      |
+|  5   |                             |                        |                                |                      |
 
+##### Calculation:
 
 
 
