@@ -116,7 +116,7 @@ The electrical force, like all forces, is typically expressed using the unit New
 
 According to Ohm's Law 
 #### *V $$\alpha$$ I*
-*i.e., V = (Constant) I
+i.e., V = (Constant) I
 #### *$\frac{V}{I}$ = Constant*
 #### *The constant in the above relation is called resistance (R) of the conductor*
 #### *∴  $\frac{V}{I}$ = R*
@@ -136,7 +136,7 @@ According to Ohm's Law
 ##### *2. Kirchoff's Voltage Law or Kirchoff's Loop Law*
 
 #### Kirchoff's current Law or Junction Law
-##### *At any junction, the sum of the currents entering the junction is equal to the sum of currents leave the junction.
+##### *At any junction, the sum of the currents entering the junction is equal to the sum of currents leave the junction.*
 ![Figure](/img/KCL.png)
 
 ##### *Sum of Input Current = Sum of Output Current*
@@ -144,7 +144,7 @@ According to Ohm's Law
 ##### *If we take currents approaching point of Junction in figure as positive and that leaving the point as negative then the above relation may be written as*  
 ##### *I<sub>1</sub> + I<sub>2</sub> + I<sub>3</sub> - I<sub>4</sub> - I<sub>5</sub> = 0*
 ##### *Hence the first law may be stated in other words that "The algebraic sum of currents at a junction is zero". Kirchoffs first law tells us that there is no accumulation of charge at any point if steady current flows in it. the net charge coming towards the point should be equalto that going away from it in the same time*
-#### #*$$\Sigma$$I= 0*
+##### $$\Sigma$$I= 0
 **Key Point*** : *Kirchoff's first law is accordance with law of Conservation of charge, since no charge can accumulate at a junction*
 
 #### Kirchoff's Voltage Law or Loop Law
@@ -170,7 +170,7 @@ The Kirchoff's junction rule applied to junctions D and B. immediately to give u
 #### I<sub>3</sub>R<sub>1</sub> = I<sub>4</sub>R<sub>2</sub> (we know that I<sub>1</sub>=I<sub>3</sub> and I<sub>2</sub> = I<sub>4</sub>)
 #### $\frac{I_{3}}{I_{4}}$ = $\frac{R_{2}}{R_{1}}$ ----------------(1)
 
-*Similarly,
+Similarly,
 #### -I<sub>3</sub>R<sub>3</sub> + I<sub>G</sub> + I<sub>4</sub>R<sub>4</sub> = 0
 #### -I<sub>3</sub>R<sub>3</sub> + 0 + I<sub>4</sub>R</sub>4 = 0 (I<sub>G</sub> = 0)
 #### -I<sub>3</sub>R<sub>3</sub> + I<sub>4</sub>R<sub>4</sub> = 0
