@@ -43,9 +43,7 @@ title: Science Lab
 ##### Vernier Callipers Least Count = $\frac{1 M.S.D}{N}$ cm
 ##### <span style="color:red"> Diagram </span>
 ![Figure](/img/V.C.png)
-<p align="center">
-	<img src="/assets/images/V.C.png">
-</p>
+	
 ##### <span style="color:red">Procedure: </span>
 ##### <span style="color:green">1.To determine the radius of a sphere:</span> 
 ##### * As shown in figure. grip the given sphere in between the external jaws. then note the reading on the main scale just before the zero division of the vernier scale as main scale reading(M.S.R) and the vernier scale division which coincides with one of the main scale divisions as vernier coincidence (V.C)(n).
