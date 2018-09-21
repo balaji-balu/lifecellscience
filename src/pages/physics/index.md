@@ -76,6 +76,14 @@ The basic units are shown in below Table.
 *In collision particles may or may not come in real physical contact.*
 
 *In a collision, before and after the impact, interaction forces between the colliding particles, becoomes efficitively zero, while during impact, the interaction forces are very large. in a collision  the effect of external forces such as gravity or friction are not taken into account as due to small duration of collision, average impulsive force responsible for the collision is much larger than external force acting on the system.*
+*Considter two objects of masses m<sub>1</sub> and m<sub>2</sub> with initial momenta P<sub>1</sub> and P<sub>2</sub>. The objects collide, get apart with final momenta P<su>1</sub> and P<sub>2</sub> respectively. when two objects collide, the mutual impulsive forces acting in small duration $\delta$t cause a change in their respective momenta.*
+#### F<sub>12</sub> $\delta$t = P<sub>1</sub> - P<sub>1</sub>
+#### F<sub>12</sub> $\delta$t = P<sub>2</sub> - P<sub>2</sub>
+#### *According to Newton's third law,*
+#### $\vec{F}$<sub>12</sub> = - $\vec{F]$<usb>21</sub>
+#### *Therefore the total impulse on the first object is equal and opposite to that of second object*
+#### $vec{$\delta$P}$<sub>1</sub> = - $vec{$\delta$P}$<sub>2</sub>
+
 
 ![Figure](/img/Collision.png)
 
