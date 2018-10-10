@@ -36,7 +36,7 @@ Basic Levels
 ## Chapter 7 - Permutations and Combinations
 ## Chapter 8 - Binomial Theorem
 ## Chapter 9 - Sequences and Series
-## Chapter 10 - Straight Lines
+## Chapter 10 - Straight Lines 
 ## Chapter 11 - Conic Sections
 ## Chapter 12 - Introduction to Three Dimensional Geometry
 ## Chapter 13 - Limits and Derivatives
