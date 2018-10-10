@@ -9,6 +9,24 @@ tags:
   - trignometry
 ---
 # Mathematics
+Basic Levels
+### Numbers
+### Numbers Counting
+### Tables Reading
+ 
+|    Table    |         Reading         |                      Meaning                     | 
+| :---------- | :---------------------: | :-----------------------------------------------:|
+| 2 X  1 = 2  |Two one is Two           |   2 X  1 = 2                                     |
+| 2 X  2 = 4  |Two Two's are Two        |   2 X  2 = 2 + 2                                 |  
+| 2 X  3 = 6  |Two Three's are six      |   2 X  3 = 2 + 2 + 2                             |
+| 2 X  4 = 8  |Two Four's are Eight     |   2 X  4 = 2 + 2 + 2 + 2                         |
+| 2 X  5 = 10 |Two Five's are Ten       |   2 X  5 = 2 + 2 + 2 + 2 + 2                     |
+| 2 X  6 = 12 |Two Six's are Twelve     |   2 X  6 = 2 + 2 + 2 + 2 + 2 + 2                 | 
+| 2 X  7 = 14 |Two Seven's are Fourteen |   2 X  7 = 2 + 2 + 2 + 2 + 2 + 2 + 2             |
+| 2 X  8 = 16 |Two Eight's are Sixteen  |   2 X  8 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2         |
+| 2 X  9 = 18 |Two Nine's are Eighteen  |   2 X  9 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2     |
+| 2 X 10 = 20 |Two Ten's are Twenty     |   2 X 10 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 |
+
 ## Chapter 1 - Sets
 ## Chapter 2 - Relations and Functions
 ## Chapter 3 - Trigonometric Functions
